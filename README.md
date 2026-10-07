@@ -121,6 +121,7 @@ main.c
 ```
 
 ## Project Structure
+```text
 
 RFID_Robot/
 ├── Core/
@@ -132,6 +133,7 @@ RFID_Robot/
 │       ├── rc522.c
 │       └── main.c
 └── RFID_Robot.ioc
+```
 
 ## Development
 
