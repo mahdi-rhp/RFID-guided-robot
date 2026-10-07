@@ -118,7 +118,7 @@ main.c
 │
 └── RFID Navigation
     └── RC522 UID Detection
-...
+```text
 
 ## Project Structure
 
