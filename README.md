@@ -121,7 +121,6 @@ main.c
 ```
 
 ## Project Structure
-```text
 
 RFID_Robot/
 ├── Core/
