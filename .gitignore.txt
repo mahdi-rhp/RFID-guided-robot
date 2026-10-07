@@ -3,4 +3,3 @@
 Drivers/
 MDK-ARM/
 RFID_ROBOT_test1/
-*.txt
